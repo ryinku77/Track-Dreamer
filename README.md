@@ -6,3 +6,6 @@ It manages all the information about Music, Track, Album Type, Music.
 -We create a full-featured Music Player system with buttons for play, pause, advance, and back Using JavaScript Code.
 Music streaming works in a very simple way:
 a streaming service delivers data to a streamer in small amounts so that the user can get pre-buffered music that has been pre-buffered a few minutes or even seconds before playing a song.
+
+* Language used:
+* 	HTML, CSS, and JavaScript
